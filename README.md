@@ -2,6 +2,7 @@
 
 **O que é?**
 
+Criada durante a imersão dev_ junto com a alura e o gemini:
 Uma página web simples e objetiva, criada com muito amor pelo Vasco da Gama, que permite aos vascaínos fazerem buscas rápidas e eficientes por informações sobre o time. 
 
 **Como funciona?**
